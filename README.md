@@ -40,8 +40,21 @@
 #### Terminal Git Clone
 
 ```bash
-<pre>https://github.com/DevStackSakib/Tasker-app.git</pre>
-<pre>cd Tasker-app</pre>
-<pre>npm install</pre>
+
+https://github.com/DevStackSakib/Tasker-app.git
+```
+
+```bash
+
+cd Tasker-app
+```
+
+```bash
+
+npm install
+```
+
+```bash
+
 npm run dev
 ```
