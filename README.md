@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # Tasker App :memo:
 
 #### A modern task management app to create, edit, organize, and track your tasks efficiently.
@@ -49,4 +47,4 @@
 
 
 
->>>>>>> fb78db8 (Now we are adding two file like Footer.jsx and README.md)
+
