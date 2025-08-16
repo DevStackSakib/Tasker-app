@@ -1,7 +1,6 @@
-
 # Tasker App :memo:
 
-#### A modern task management app to create, edit, organize, and track your tasks efficiently.
+### A modern task management app to create, edit, organize, and track your tasks efficiently.
 
 <br />
 
@@ -43,8 +42,7 @@
 <pre>https://github.com/DevStackSakib/Tasker-app.git</pre>
 <pre>cd Tasker-app</pre>
 <pre>npm install</pre>
-<pre>npm run dev</pre>
 
-
-
-
+```bash
+npm run dev
+```
