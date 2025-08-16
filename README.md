@@ -39,10 +39,9 @@
 
 #### Terminal Git Clone
 
+```bash
 <pre>https://github.com/DevStackSakib/Tasker-app.git</pre>
 <pre>cd Tasker-app</pre>
 <pre>npm install</pre>
-
-```bash
 npm run dev
 ```
