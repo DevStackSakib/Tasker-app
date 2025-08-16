@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #5e5d5dd9;
+    background-image: radial-gradient(at 65% 71%, #32315e8f 0%, transparent 60%),
+      radial-gradient(at 28% 22%, #344c64 0%, transparent 50%),
+      radial-gradient(at 2% 39%, #577b8d 0%, transparent 40%),
+      radial-gradient(at 41% 85%, #57a6a1 0%, transparent 30%);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+}
+
+@layer utilities {
+  .container {
+    @apply mx-auto px-[1rem];
+  }
+
+  .disabled {
+    @apply border-none focus:outline-none;
+  }
+
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+}
